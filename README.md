@@ -18,4 +18,4 @@ Feel free to send me a mail if you interested on my jobs and the things that I c
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=D4lvarez&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=D4lvarez&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
