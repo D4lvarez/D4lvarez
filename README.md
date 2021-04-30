@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Fullstack Developer, experienced on Python, PHP and Typescript, and frameworks like Django, Laravel, Express and Flask. In this days I'm forming me on React.JS, React Native, Kotlin for native android development and Elixir.
+I'm a **Fullstack Developer**, experienced on *Python, PHP and Typescript*, and frameworks like *Django, Laravel, Express and Flask*. In this days I'm forming me on *React.JS, React Native*, **Kotlin for native android development** and *Elixir*.
 
 At this moment I have aprox 1 year and a half like professional developer, everyday I try to learn new things and good practices to start projects focused on the logic and not on the laguange to use.
 
-Feel free to send me a mail if you interested on my jobs and the things that I can do. See you!
+Feel free to send me a mail if you interested on my jobs and the things that I can do. See you! 🤝
