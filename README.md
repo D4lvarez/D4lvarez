@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 -->
 I'm a **Fullstack Developer**, experienced on *Python, PHP and Typescript*, and frameworks like *Django, Laravel, Express and Flask*. In this days I'm forming me on *React.JS, React Native*, **Kotlin for native android development** and *Elixir*.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="
-100px"> <img style="margin-bottom:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/300px-Typescript_logo_2020.svg.png" width="100px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/200px-PHP-logo.svg.png" width="100px"> 
-
 At this moment I have aprox 1 year and a half like professional developer, everyday I try to learn new things and good practices to start projects focused on the logic and not on the laguange to use.
 
 Feel free to send me a mail if you interested on my jobs and the things that I can do. See you! 🤝
+
+---
+
+🧰 ToolBox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>
