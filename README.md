@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a **Fullstack Developer**, experienced on *Python, PHP and Typescript*, and frameworks like *Django, Laravel, Express and Flask*. In this days I'm forming me on *React.JS, React Native*, **Kotlin for native android development** and *Elixir*.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="
-250px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/200px-PHP-logo.svg.png" width="260px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/300px-Typescript_logo_2020.svg.png" width="250px">
+150"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/200px-PHP-logo.svg.png" width="150px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/300px-Typescript_logo_2020.svg.png" width="150px">
 
 At this moment I have aprox 1 year and a half like professional developer, everyday I try to learn new things and good practices to start projects focused on the logic and not on the laguange to use.
 
