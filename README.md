@@ -12,7 +12,7 @@ Feel free to send me a mail if you interested on my jobs and the things that I c
 
 🧰 ToolBox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="80" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="80" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="Typescript Logo" width="50" height="50"/>
 
 ---
 
